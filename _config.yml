@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tauhid Nabi"
 title_separator          : " "
 name                     : &name "Tauhid Nabi"
-description              : &description "Assistant Professor <br> iSchool@UIUC"
+description              : &description "PhD Candidate <br> Computer Science @ Virginia Tech"
 url                      : https://tauhidnabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : #"Tauhid Nabi"
   avatar           : "me.jpg" #"profile.png"
-  bio              : "Assistant Professor <br> iSchool@UIUC"
-  location         : #"Blacksburg, VA"
+  bio              : "PhD Candidate <br> Computer Science @ Virginia Tech"
+  location         : "Blacksburg, VA, USA"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ"
-  email            : "ilourentzou@vt.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=kPfhelMAAAAJ&hl=en&inst=13410158990364976897"
+  email            : "tauhidun@vt.edu"
   cv              : 
   uri              :
   bitbucket        :
