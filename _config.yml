@@ -180,7 +180,10 @@ collections:
   #infostudents:
   #  output: true
   #  permalink: /:collection/:path/
-  portfolio:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  blog:
     output: true
     permalink: /:collection/:path/
   #talks:
