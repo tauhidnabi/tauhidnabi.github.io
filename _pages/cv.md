@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "CV"
+layout: archive
+title: ""
 permalink: /cv/
+author_profile: true
 ---
 
 # Curriculum Vitae
