@@ -9,8 +9,8 @@ main:
   #- title: "Information for Students"
   #  url: /infostudents/
     
-  #- title: "Projects"
-  #  url: /portfolio/
+  - title: "Projects"
+    url: /portfolio/
 
   #- title: "CS5604F21"
   #  url: /CS5604F21/
@@ -18,8 +18,8 @@ main:
   #- title: "Talks"
   #  url: /media/
 
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
