@@ -22,7 +22,7 @@ main:
     url: /blog/
     
   - title: "CV"
-    url: /pdfs/cv.pdf
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
