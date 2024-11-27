@@ -4,4 +4,8 @@ title: "CV"
 permalink: /cv/
 ---
 
-Here is my [CV](assets/Resume_Tauhid_Nabi_Virginia_Tech.pdf).
+# Curriculum Vitae
+
+Here is my full CV. You can also download it [here](assets/cv.pdf).
+
+<iframe src="assets/cv.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
