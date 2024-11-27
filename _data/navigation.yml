@@ -10,7 +10,7 @@ main:
   #  url: /infostudents/
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
 
   #- title: "CS5604F21"
   #  url: /CS5604F21/
@@ -19,7 +19,7 @@ main:
   #  url: /media/
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog/
     
   - title: "CV"
     url: /cv/
