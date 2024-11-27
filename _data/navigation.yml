@@ -6,8 +6,8 @@ main:
   - title: "Professional Experience"
     url: /experience/
 
-  - title: "Information for Students"
-    url: /infostudents/
+  #- title: "Information for Students"
+  #  url: /infostudents/
     
   #- title: "Projects"
   #  url: /portfolio/
@@ -21,8 +21,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
