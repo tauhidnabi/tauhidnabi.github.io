@@ -7,4 +7,4 @@ author_profile: true
 
 # Curriculum Vitae
 
-[Here]({{ site.baseurl }}/pdfs/cv.pdf){:target="_blank"} is my full CV in PDF format.
+My full CV is available [here]({{ site.baseurl }}/pdfs/cv.pdf){:target="_blank"}.
