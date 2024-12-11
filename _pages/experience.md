@@ -14,7 +14,7 @@ author_profile: true
 - Internship @ **[British American Tobacco Bangladesh](https://www.bat.com/)**, Dhaka, Bangladesh
 
 # Leadership
-- Vice President @ **[Computer Science Graduate Council] (https://csgrad.cs.vt.edu/), Virginia Tech**, Blacksburg, VA, Aug 2024 - Present
+- Vice President @ **[Computer Science Graduate Council](https://csgrad.cs.vt.edu/), Virginia Tech**, Blacksburg, VA, Aug 2024 - Present
 
 # Honors/Awards
 
