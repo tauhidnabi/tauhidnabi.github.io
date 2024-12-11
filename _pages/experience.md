@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 
+# Work Experience
+- Graduate Research Assistant @ **Department of Computer Science, Virginia Tech**, Blacksburg, VA, Aug 2022 - Present
+- Manager (Senior Engineer), Network Planning, @ **Robi Axiata Limited**, Dhaka, Bangladesh, May 2017 - Jul 2022
+- Specialist Engineer, Network Planning, @ **Banglalink Digital Communications Limited**, Dhaka, Bangladesh, Aug 2014 - Apr 2017
+- Internship @ **British American Tobacco Bangladesh**, Dhaka, Bangladesh
+
 # Teaching Experience
 - **[CS6604@VT](/cs6604FA23)** Embodied Artificial Intelligence, Fall 2023
 - **CS5824@VT** Advanced Machine Learning, Spring 2023
@@ -15,14 +21,6 @@ author_profile: true
 - **CS410@UIUC Text Information Systems**, Head TA for Fall 2018, Spring+Fall 2017 and TA, Fall 2016 
 - **CS125@UIUC Intro to Computer Science**, TA, Fall 2013
 
-# Work Experience
-- Research Scientist @ **IBM Almaden Research Center**, San Jose, CA, November 2019 - December 2020
-- Internship @ **IBM Almaden Research Center**, San Jose, CA, Summer 2018
-- Internship @ **IBM Almaden Research Center**, San Jose, CA, Summer 2017
-- Internship @ **Microsoft Research**, Redmond, WA, Summer 2015
-- Technical reviewer for video courses: D3 for Dynamic Data Visualizations, **Packt Publishing**, April - June 2014 
-- Technical reviewer of the book: Data Visualization with D3.js Cookbook, **Packt Publishing**, August - September 2013
-- Former career in the banking sector @ **National Bank of Greece S.A.**, February 2004 - August 2013	 
 
 <!-- # Awards
 - **Travel Award** for [ISWC 2019](https://iswc2019.semanticweb.org), Auckland, New Zealand
