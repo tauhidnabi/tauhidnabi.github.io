@@ -8,9 +8,9 @@ author_profile: true
 
 # Professional Experience
 
-- Graduate Research Assistant @ **Department of Computer Science, [Virginia Tech](https://cs.vt.edu/)**, Blacksburg, VA, Aug 2022 - Present
-- Manager (Senior Engineer), Network Planning, @ **[Robi Axiata](https://www.robi.com.bd/en#)**, Dhaka, Bangladesh, May 2017 - Jul 2022
-- Specialist Engineer, Network Planning, @ **[Banglalink (VEON)](https://banglalink.net/en)**, Dhaka, Bangladesh, Aug 2014 - Apr 2017
+- Graduate Research Assistant @ **[Department of Computer Science, Virginia Tech](https://cs.vt.edu/)**, Blacksburg, VA, Aug 2022 - Present
+- Manager (Senior Engineer), Network Planning @ **[Robi Axiata](https://www.robi.com.bd/en#)**, Dhaka, Bangladesh, May 2017 - Jul 2022
+- Specialist Engineer, Network Planning @ **[Banglalink (VEON)](https://banglalink.net/en)**, Dhaka, Bangladesh, Aug 2014 - Apr 2017
 - Internship @ **[British American Tobacco Bangladesh](https://www.bat.com/)**, Dhaka, Bangladesh
 
 # Leadership
