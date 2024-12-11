@@ -19,4 +19,8 @@ Authors: Syed Tauhidun Nabi, Md. Rashidul Islam, Md. Golam Rabiul Alam, Gianluca
 [paper](https://ieeexplore.ieee.org/abstract/document/10042176)
 
 
-# Techincal Notes and Presentations
+# Technical Notes and Presentations
+
+- **Automated Identification of Low-Quality Service Availability Claims in the US National Broadband Map**, [Poster Presentation](https://sched.co/1OfAs), [The Research Conference on Communications, Information and Internet Policy (TPRC-2023)](https://www.tprcweb.com/), Washington D.C., United States, Sep 22, 2023.
+
+- **Analysis on U.S. National Broadband Map**, [Second Workshop on Situating Network Infrastructure with People, Practices, and Beyond (SNIP2+)](https://conferences.sigcomm.org/sigcomm/2023/workshop-snip2+.html), SIGCOMM-2023, New York City, NY, United States, Sep 10, 2023.
