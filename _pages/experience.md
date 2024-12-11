@@ -13,6 +13,16 @@ author_profile: true
 - Specialist Engineer, Network Planning, @ **[Banglalink (VEON)](https://banglalink.net/en)**, Dhaka, Bangladesh, Aug 2014 - Apr 2017
 - Internship @ **[British American Tobacco Bangladesh](https://www.bat.com/)**, Dhaka, Bangladesh
 
+# Leadership
+- Vice President @ **[Computer Science Graduate Council] (https://csgrad.cs.vt.edu/), Virginia Tech**, Blacksburg, VA, Aug 2024 - Present
+
+# Honors/Awards
+
+- **Third Best Undergraduate Research Poster**: Supervised undergraduate research team awarded third place at the 2024 Virginia Tech Undergraduate Research in Computer Science competition.
+- **Best Research Publication Award**: Recognized for outstanding research publication at Brac University for the academic year 2022-2023.
+- **Dean’s Award Nominee/Summa Cum Laude**: Achieved a perfect 4.0/4.0 CGPA in Master of Science in Computer Science and Engineering.
+- **Best Performance Award**: Honored multiple times by the Technology Division at Robi Axiata during the tenure from 2017 to 2022.
+
 
 <!-- # Teaching Experience
 - **[CS6604@VT](/cs6604FA23)** Embodied Artificial Intelligence, Fall 2023
@@ -24,7 +34,7 @@ author_profile: true
 - **CS125@UIUC Intro to Computer Science**, TA, Fall 2013
 
 
-<!-- # Awards
+# Awards
 - **Travel Award** for [ISWC 2019](https://iswc2019.semanticweb.org), Auckland, New Zealand
 - **Outstanding Teaching Assistant Award** - CS Department @ UIUC, Spring 2018
 - **Travel Award** for [ICWSM 2019](https://www.icwsm.org/2019), Munich, Germany
