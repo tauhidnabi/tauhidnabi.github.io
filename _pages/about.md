@@ -18,7 +18,7 @@ I am focused on addressing societal challenges such as improving broadband acces
 Through my work, I aim to develop tools and analytics that enhance decision-making, foster equitable broadband deployment, and inform policies that advance <span style="color:MediumSeaGreen">digital equity</span> in the internet and telecommunications sector.
 
 
-<span style="font-size:14px;color: red;"><b>I am actively seeking summer internships for 2025 (with the possibility of extending into Fall 2026) in the fields of Data Science and Internet Measurement. I am eager to apply my skills, tackle industry challenges, and continue learning. If you're interested in collaborating, feel free to email me at tauhid.eecs@gmail.com.</b></span>
+<span style="font-size:14px;color: red;"><b>I am actively seeking summer internships for 2025 (with the possibility of extending into Fall 2026) in the fields of Data Science and Internet Measurement. I am eager to apply my skills, tackle industry challenges, and continue learning. If you're interested in collaborating, feel free to email me at</b></span> [tauhid.eecs@gmail.com](mailto:tauhid.eecs@gmail.com).
 
 # News
 
@@ -26,4 +26,4 @@ Through my work, I aim to develop tools and analytics that enhance decision-maki
 - **November 2024:** Presented the *Red is Sus* paper at [ACM IMC 2024](https://conferences.sigcomm.org/imc/2024/program/).
 - **August 2024:** Started my term as *Vice President*, CS Graduate Council.
 - **May 2024:** Received acceptance notification for the *Red is Sus* full paper at IMC 2024.
-- **April 2024:** Elected as Vice President, CS Graduate Council.
+- **April 2024:** Elected as *Vice President*, CS Graduate Council.
