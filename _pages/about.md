@@ -29,6 +29,6 @@ Through my work, I aim to develop tools and analytics that enhance decision-maki
 - **April 2024:** Elected as *Vice President*, CS Graduate Council.
 - **September 2023:** Attended [ACM SIGCOMM 2023](https://conferences.sigcomm.org/sigcomm/2023/) in New York City.  
 - **September 2023:** Presented a [Research Poster](https://tprc2023ab.sched.com/event/1OfAs) at [TPRC 2023](https://www.tprcweb.com/) in Washington, D.C.
+- **February 2023:** Thrilled to announce the acceptance of my *first "First Author" academic paper*, *[Deep Learning Fusion Model for LTE Traffic Forecasting and Resource Allocation](https://ieeexplore.ieee.org/abstract/document/10042176/)*, published in the IEEE Access journal.
 - **August 2022:** Began my *PhD journey* in the Department of Computer Science at Virginia Tech.
 - **August 2022:** Resigned from my role as a *Network Planning Expert* at a leading mobile network operator in Bangladesh after five years of my tenure.
-
