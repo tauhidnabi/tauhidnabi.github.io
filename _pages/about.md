@@ -23,7 +23,7 @@ Through my work, I aim to develop tools and analytics that enhance decision-maki
 # News
 
 - **December 2024:** Accepted as a *Shadow PC member* for [ACM CoNEXT 2025](https://conferences.sigcomm.org/co-next/2025/#!/home).
-- **November 2024:** Presented the *Red is Sus* paper at [ACM IMC 2024](https://conferences.sigcomm.org/imc/2024/program/).
+- **November 2024:** Presented the *[Red is Sus](https://dl.acm.org/doi/10.1145/3646547.3688441)* paper at [ACM IMC 2024](https://conferences.sigcomm.org/imc/2024/program/).
 - **August 2024:** Started my term as *Vice President*, CS Graduate Council.
 - **May 2024:** Received acceptance notification for the *Red is Sus* full paper at IMC 2024.
 - **April 2024:** Elected as *Vice President*, CS Graduate Council.
@@ -32,3 +32,4 @@ Through my work, I aim to develop tools and analytics that enhance decision-maki
 - **February 2023:** Thrilled to announce the acceptance of my *first "First Author" academic paper*, *[Deep Learning Fusion Model for LTE Traffic Forecasting and Resource Allocation](https://ieeexplore.ieee.org/abstract/document/10042176/)*, published in the IEEE Access journal.
 - **August 2022:** Began my *PhD journey* in the Department of Computer Science at Virginia Tech.
 - **August 2022:** Resigned from my role as a *Network Planning Expert* at a leading mobile network operator in Bangladesh after five years of my tenure.
+- **June 2022:** Fulfilled the course and research requirements for a Master’s in Computer Science and Engineering from [BRAC University](https://www.bracu.ac.bd/) with the highest distinction *(CGPA 4 out of 4 scale)*.
