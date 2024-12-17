@@ -15,7 +15,7 @@ My expertise combines a solid understanding of <span style="color:MediumSeaGreen
 
 I am focused on addressing societal challenges such as improving broadband access, enhancing the quality of experiences in cellular networks, and supporting data-driven policymaking. My prior experience as a <span style="color:MediumSeaGreen">Network Planner</span> has provided me with valuable practical insights into broadband infrastructure, which I integrate into my academic work to bridge the gap between research and real-world applications.
 
-Through my work, I aim to develop tools and analytics that enhance decision-making, foster equitable broadband deployment, and inform policies that advance <span style="color:MediumSeaGreen">Digital Equity</span> in the internet and telecommunications sector.
+Through my work, I aim to develop tools and analytics that enhance decision-making, foster equitable broadband deployment, and inform policies that advance <span style="color:MediumSeaGreen">Digital Equity</span> in the Internet and telecommunications sector.
 
 
 <span style="font-size:14px;color: red;"><b>I am actively seeking summer internships for 2025 (with the possibility of extending into Fall 2026) in the fields of Data Science and Internet Measurement. I am eager to apply my skills, tackle industry challenges, and continue learning. If you're interested in collaborating, feel free to email me at</b></span> [tauhid.eecs@gmail.com](mailto:tauhid.eecs@gmail.com).
