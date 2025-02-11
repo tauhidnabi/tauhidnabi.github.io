@@ -13,6 +13,12 @@ author_profile: true
 - Specialist Engineer, Network Planning @ **[Banglalink (VEON)](https://banglalink.net/en)**, Dhaka, Bangladesh, Aug 2014 - Apr 2017
 - Internship @ **[British American Tobacco Bangladesh](https://www.bat.com/)**, Dhaka, Bangladesh
 
+# Teaching Experience
+
+Graduate Teaching Assistant @ **[Department of Computer Science, Virginia Tech](https://cs.vt.edu/)**
+- **CS5024@VT** Ethics & Professionalism in CS, Spring 2024
+- **CS4624@VT** Multimedia, Hypertext and Information Access, Spring 2025
+
 # Leadership
 - Vice President @ **[Computer Science Graduate Council](https://csgrad.cs.vt.edu/), Virginia Tech**, Blacksburg, VA, Aug 2024 - Present
 
