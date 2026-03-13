@@ -21,6 +21,8 @@ Through my work, I aim to develop tools and analytics that enhance decision-maki
 <span style="font-size:14px;color: red;"><b>I am actively seeking summer internships for 2026 (with the possibility of extending into Fall 2026) in the fields of Internet Measurement and Data Science. I am eager to apply my skills, tackle industry challenges, and continue learning. If you're interested in collaborating, feel free to email me at</b></span> [tauhid.eecs@gmail.com](mailto:tauhid.eecs@gmail.com).
 
 # News
+- **March 2026:** 🎉 Successfully passed my PhD preliminary defense and am now officially **ABD (All But Dissertation)**, entering the final stage of my PhD in Computer Science.
+- **February 2026:** 🌍 I’m honored to share that I’ve been selected as a **2026 Internet Society Pulse Fellow** under the **Internet Resilience** category.
 - **December 2025:** 🎓 Earned my MS degree with highest distinction (GPA 4.0/4.0) along the way to my PhD at Virginia Tech.
 - **October 2025:** Our paper *NetBreakout: A Scalable Methodology for Mapping Mobile Network Egress Topology* has been accepted for presentation at the [PRIME Workshop](https://conferences.sigcomm.org/imc/2025/events/prime/), co-located with [ACM IMC 2025](https://conferences.sigcomm.org/imc/2025/).
 - **April 2025:** Accepted to the Doctoral Consortium and presented my poster at [ACM COMPASS 2025](https://compass.acm.org/), titled: *Signal Sense: Investigating Mobile Broadband Inequality in the Global South*.
