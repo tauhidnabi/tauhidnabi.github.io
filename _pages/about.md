@@ -22,6 +22,8 @@ Through my work, I aim to develop measurement methods and data-driven tools that
 <span style="font-size:14px;color: red;"><b> If you're interested in collaborating, feel free to email me at</b></span> [tauhid.eecs@gmail.com](mailto:tauhid.eecs@gmail.com).
 
 # News
+- **June 2026:** 🏆 I have been awarded the **Pratt Fellowship** from the Department of Computer Science at Virginia Tech for the academic year 2026–2027.
+- **May 2026:** 🚀 I joined **[Cisco ThousandEyes](https://www.cisco.com/site/us/en/products/networking/software/internet-cloud-intelligence/index.html)** as a Summer PhD Intern on the Internet Measurement Research team.
 - **March 2026:** 🎉 Successfully passed my PhD preliminary defense and am now officially **ABD (All But Dissertation)**, entering the final stage of my PhD in Computer Science.
 - **February 2026:** 🌍 I’m honored to share that I’ve been selected as a **2026 Internet Society Pulse Fellow** under the **Internet Resilience** category.
 - **December 2025:** 🎓 Earned my MS degree with highest distinction (GPA 4.0/4.0) along the way to my PhD at Virginia Tech.
