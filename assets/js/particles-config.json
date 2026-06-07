@@ -1,6 +1,6 @@
 {
   "particles": {
-    "number": { "value": 160, "density": { "enable": true, "value_area": 800 } },
+    "number": { "value": 100, "density": { "enable": true, "value_area": 800 } },
     "color": { "value": "#6e6e6e" },
     "shape": { "type": "circle" },
     "opacity": { "value": 0.6, "random": false },
