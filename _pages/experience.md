@@ -7,28 +7,28 @@ author_profile: true
 
 
 # Professional Experience
-
+- Summer PhD Intern, Internet Measurement Research @ **[Cisco ThousandEyes](https://www.cisco.com/site/us/en/products/networking/software/internet-cloud-intelligence/index.html)**, San Francisco, CA, May 2026 - Aug 2026
 - Graduate Research Assistant @ **[Department of Computer Science, Virginia Tech](https://cs.vt.edu/)**, Blacksburg, VA, Aug 2022 - Present
 - Manager (Senior Engineer), Network Planning @ **[Robi Axiata](https://www.robi.com.bd/en#)**, Dhaka, Bangladesh, May 2017 - Jul 2022
 - Specialist Engineer, Network Planning @ **[Banglalink (VEON)](https://banglalink.net/en)**, Dhaka, Bangladesh, Aug 2014 - Apr 2017
 - Internship @ **[British American Tobacco Bangladesh](https://www.bat.com/)**, Dhaka, Bangladesh
 
 # Teaching Experience
-
 Graduate Teaching Assistant @ **[Department of Computer Science, Virginia Tech](https://cs.vt.edu/)**
+- **CS5024@VT** Ethics & Professionalism in CS, Spring 2026
 - **CS5024@VT** Ethics & Professionalism in CS, Spring 2024
 - **CS4624@VT** Multimedia, Hypertext and Information Access, Spring 2025
 
 # Leadership
-- Vice President @ **[Computer Science Graduate Council](https://csgrad.cs.vt.edu/), Virginia Tech**, Blacksburg, VA, Aug 2024 - Present
+- Vice President @ **[Computer Science Graduate Council](https://csgrad.cs.vt.edu/), Virginia Tech**, Blacksburg, VA, Aug 2024 - May 2025
 
 # Honors/Awards
-
+- **Internet Society Pulse Fellowship 2026**: Selected as one of ~10 fellows globally from ~200 applicants across 51 countries, under the Internet Resilience category.
+- **Pratt Fellowship 2026–2027**: Awarded by the Department of Computer Science, Virginia Tech, for the academic year 2026–2027.
 - **Third Best Undergraduate Research Poster**: Supervised undergraduate research team awarded third place at the 2024 Virginia Tech Undergraduate Research in Computer Science competition.
 - **Best Research Publication Award**: Recognized for outstanding research publication at Brac University for the academic year 2022-2023.
-- **Dean’s Award Nominee/Summa Cum Laude**: Achieved a perfect 4.0/4.0 CGPA in Master of Science in Computer Science and Engineering.
+- **Dean's Award Nominee/Summa Cum Laude**: Achieved a perfect 4.0/4.0 CGPA in Master of Science in Computer Science and Engineering.
 - **Best Performance Award**: Honored multiple times by the Technology Division at Robi Axiata during the tenure from 2017 to 2022.
-
 
 <!-- # Teaching Experience
 - **[CS6604@VT](/cs6604FA23)** Embodied Artificial Intelligence, Fall 2023
