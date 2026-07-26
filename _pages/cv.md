@@ -9,4 +9,4 @@ author_profile: true
 
 My full CV is available [here]({{ site.baseurl }}/pdfs/cv.pdf){:target="_blank"}.
 
-<small>*Last updated: July 2026*</small>
+<small>_Last updated: July 2026_</small>
