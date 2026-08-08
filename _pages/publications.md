@@ -45,7 +45,7 @@ For an updated list, please check <u><a href="https://scholar.google.com/citatio
 <span class="pub-meta">Syed Tauhidun Nabi, Rahul Roy, S. M. Taiabul Haque, Syed Ishtiaque Ahmed, Shaddi Hasan</span><br>
 <span class="pub-meta"><em>ACM SIGCOMM Posters and Demos '26</em>, Denver, CO, USA, Aug 17–21, 2026</span><br>
 <div class="pub-links">
-<a href="{{ site.baseurl }}/pdfs/poster_signal_sense_sigcomm-2026.pdf">Poster PDF</a>
+<a href="{{ site.baseurl }}/pdfs/poster_signal-sense_sigcomm-2026.pdf">Poster PDF</a>
 <a href="https://doi.org/10.1145/3789240.3830293">ACM DL</a>
 </div>
 </div>
@@ -92,7 +92,7 @@ For an updated list, please check <u><a href="https://scholar.google.com/citatio
 # Presentations & Technical Notes
 
 <div class="pub-entry">
-<span class="pub-venue venue-imc">ACM IMC</span>
+<span class="pub-venue" style="background-color:#0f766e; display:inline-block; padding:2px 8px; border-radius:4px; font-size:0.75em; font-weight:bold; color:white; margin-right:6px;">TPRC</span>
 <span class="pub-title">Automated Identification of Low-Quality Service Availability Claims in the US National Broadband Map</span><br>
 <span class="pub-meta">Poster Presentation · <a href="https://www.tprcweb.com/">TPRC-2023</a>, Washington D.C., Sep 22, 2023</span>
 </div>
