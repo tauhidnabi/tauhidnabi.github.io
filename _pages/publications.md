@@ -42,7 +42,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <div class="pub-entry">
 <span class="pub-venue venue-sigcomm">ACM SIGCOMM</span>
 <span class="pub-title">POSTER: Measuring the Unmeasured: Mobile Broadband Inequality in the Global South</span><br>
-<span class="pub-meta">Syed Tauhidun Nabi, Rahul Roy, S. M. Taiabul Haque, Syed Ishtiaque Ahmed, Shaddi Hasan</span><br>
+<span class="pub-meta"><strong>Syed Tauhidun Nabi</strong>, Rahul Roy, S. M. Taiabul Haque, Syed Ishtiaque Ahmed, Shaddi Hasan</span><br>
 <span class="pub-meta"><em>ACM SIGCOMM Posters and Demos '26</em>, Denver, CO, USA, Aug 17–21, 2026</span><br>
 <div class="pub-links">
 <a href="{{ site.baseurl }}/pdfs/poster_signal-sense_sigcomm-2026.pdf">PDF</a>
@@ -55,7 +55,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <div class="pub-entry">
 <span class="pub-venue venue-arxiv">arXiv</span>
 <span class="pub-title">Lost in the Prefix: Revisiting IP Geolocation Accuracy Across Networks and Geographies</span><br>
-<span class="pub-meta">Syed Tauhidun Nabi, Jocelyn Bliton, Tijay Chung, Shaddi Hasan</span><br>
+<span class="pub-meta"><strong>Syed Tauhidun Nabi</strong>, Jocelyn Bliton, Tijay Chung, Shaddi Hasan</span><br>
 <span class="pub-meta"><em>Under Review</em> · arXiv:2605.21937 [cs.NI], May 2026</span><br>
 <div class="pub-links">
 <a href="{{ site.baseurl }}/pdfs/lost-in-the-prefix_arxiv-2026.pdf">PDF</a>
@@ -68,7 +68,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <div class="pub-entry">
 <span class="pub-venue venue-imc">ACM IMC</span>
 <span class="pub-title">NetBreakout: A Scalable Methodology for Mapping Mobile Network Egress Topology</span><br>
-<span class="pub-meta">Syed Tauhidun Nabi, Shaddi Hasan</span><br>
+<span class="pub-meta"><strong>Syed Tauhidun Nabi</strong>, Shaddi Hasan</span><br>
 <span class="pub-meta"><em><a href="https://conferences.sigcomm.org/imc/2025/events/prime/">PRIME Workshop</a>, ACM Internet Measurement Conference (IMC '25)</em>, Madison, WI, USA, Oct 28–31, 2025</span><br>
 <div class="pub-links">
 <a href="{{ site.baseurl }}/pdfs/netbreakout_prime-imc-2025.pdf">PDF</a>
@@ -80,7 +80,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <div class="pub-entry">
 <span class="pub-venue venue-imc">ACM IMC</span>
 <span class="pub-title">Red is Sus: Automated Identification of Low-Quality Service Availability Claims in the US National Broadband Map</span><br>
-<span class="pub-meta">Syed Tauhidun Nabi, Zhuowei Wen, Brooke Ritter, Shaddi Hasan</span><br>
+<span class="pub-meta"><strong>Syed Tauhidun Nabi</strong>, Zhuowei Wen, Brooke Ritter, Shaddi Hasan</span><br>
 <span class="pub-meta"><em>Proceedings of the 2024 ACM Internet Measurement Conference (IMC '24)</em>, Madrid, Spain, Nov 4–6, 2024</span><br>
 <div class="pub-links">
 <a href="{{ site.baseurl }}/pdfs/red-is-sus_imc-2024.pdf">PDF</a>
@@ -94,7 +94,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <div class="pub-entry">
 <span class="pub-venue venue-ieee">IEEE Access</span>
 <span class="pub-title">Deep Learning Based Fusion Model for Multivariate LTE Traffic Forecasting and Optimized Radio Parameter Estimation</span><br>
-<span class="pub-meta">Syed Tauhidun Nabi, Md. Rashidul Islam, Md. Golam Rabiul Alam, Gianluca Aloi</span><br>
+<span class="pub-meta"><strong>Syed Tauhidun Nabi</strong>, Md. Rashidul Islam, Md. Golam Rabiul Alam, Gianluca Aloi</span><br>
 <span class="pub-meta"><em>IEEE Access Journal</em>, Feb 10, 2023</span><br>
 <div class="pub-links">
 <a href="{{ site.baseurl }}/pdfs/deep-learning-fusion-model_ieee-access-2023.pdf">PDF</a>
