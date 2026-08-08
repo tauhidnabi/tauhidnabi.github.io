@@ -45,7 +45,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <span class="pub-meta">Syed Tauhidun Nabi, Rahul Roy, S. M. Taiabul Haque, Syed Ishtiaque Ahmed, Shaddi Hasan</span><br>
 <span class="pub-meta"><em>ACM SIGCOMM Posters and Demos '26</em>, Denver, CO, USA, Aug 17–21, 2026</span><br>
 <div class="pub-links">
-<a href="{{ site.baseurl }}/pdfs/poster_signal-sense_sigcomm-2026.pdf">Poster PDF</a>
+<a href="{{ site.baseurl }}/pdfs/poster_signal-sense_sigcomm-2026.pdf">PDF</a>
 <a href="https://doi.org/10.1145/3789240.3830293">ACM DL</a>
 </div>
 </div>
