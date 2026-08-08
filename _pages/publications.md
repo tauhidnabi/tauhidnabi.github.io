@@ -84,6 +84,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <span class="pub-meta"><em>Proceedings of the 2024 ACM Internet Measurement Conference (IMC '24)</em>, Madrid, Spain, Nov 4–6, 2024</span><br>
 <div class="pub-links">
 <a href="{{ site.baseurl }}/pdfs/red-is-sus_imc-2024.pdf">PDF</a>
+<a href="https://github.com/spin-vt/red_is_sus">Dataset</a>
 <a href="https://dl.acm.org/doi/abs/10.1145/3646547.3688441">ACM DL</a>
 </div>
 </div>
