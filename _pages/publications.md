@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-For an updated list, please check <u><a href="https://scholar.google.com/citations?user=kPfhelMAAAAJ&hl=en&inst=13410158990364976897">my Google Scholar profile</a>.</u>
+Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMAAAAJ&hl=en&inst=13410158990364976897">my Google Scholar profile</a>.</u>
 
 <style>
 .pub-venue {
@@ -63,6 +63,18 @@ For an updated list, please check <u><a href="https://scholar.google.com/citatio
 </div>
 </div>
 
+## 2025
+
+<div class="pub-entry">
+<span class="pub-venue venue-imc">ACM IMC</span>
+<span class="pub-title">NetBreakout: A Scalable Methodology for Mapping Mobile Network Egress Topology</span><br>
+<span class="pub-meta">Syed Tauhidun Nabi, Shaddi Hasan</span><br>
+<span class="pub-meta"><em><a href="https://conferences.sigcomm.org/imc/2025/events/prime/">PRIME Workshop</a>, ACM Internet Measurement Conference (IMC '25)</em>, 2025</span><br>
+<div class="pub-links">
+<a href="{{ site.baseurl }}/pdfs/netbreakout_prime-imc-2025.pdf">PDF</a>
+</div>
+</div>
+
 ## 2024
 
 <div class="pub-entry">
@@ -94,11 +106,11 @@ For an updated list, please check <u><a href="https://scholar.google.com/citatio
 <div class="pub-entry">
 <span class="pub-venue" style="background-color:#0f766e; display:inline-block; padding:2px 8px; border-radius:4px; font-size:0.75em; font-weight:bold; color:white; margin-right:6px;">TPRC</span>
 <span class="pub-title">Automated Identification of Low-Quality Service Availability Claims in the US National Broadband Map</span><br>
-<span class="pub-meta">Poster Presentation · <a href="https://www.tprcweb.com/">TPRC-2023</a>, Washington D.C., Sep 22, 2023</span>
+<span class="pub-meta">Poster Presentation · <a href="https://www.tprcweb.com/">TPRC-2023</a>, Washington D.C., USA, Sep 22, 2023</span>
 </div>
 
 <div class="pub-entry">
 <span class="pub-venue venue-sigcomm">ACM SIGCOMM</span>
 <span class="pub-title">Evaluating the U.S. National Broadband Map</span><br>
-<span class="pub-meta">Lightning Talk · <a href="https://conferences.sigcomm.org/sigcomm/2023/workshop-snip2+.html">SNIP2+ Workshop</a>, SIGCOMM-2023, New York City, NY, Sep 10, 2023</span>
+<span class="pub-meta">Lightning Talk · <a href="https://conferences.sigcomm.org/sigcomm/2023/workshop-snip2+.html">SNIP2+ Workshop</a>, SIGCOMM-2023, New York City, NY, USA, Sep 10, 2023</span>
 </div>
