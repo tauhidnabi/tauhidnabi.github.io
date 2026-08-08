@@ -69,7 +69,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <span class="pub-venue venue-imc">ACM IMC</span>
 <span class="pub-title">NetBreakout: A Scalable Methodology for Mapping Mobile Network Egress Topology</span><br>
 <span class="pub-meta">Syed Tauhidun Nabi, Shaddi Hasan</span><br>
-<span class="pub-meta"><em><a href="https://conferences.sigcomm.org/imc/2025/events/prime/">PRIME Workshop</a>, ACM Internet Measurement Conference (IMC '25)</em>, 2025</span><br>
+<span class="pub-meta"><em><a href="https://conferences.sigcomm.org/imc/2025/events/prime/">PRIME Workshop</a>, ACM Internet Measurement Conference (IMC '25)</em>, Madison, Wisconsin, USA, Oct 28–31, 2025</span><br>
 <div class="pub-links">
 <a href="{{ site.baseurl }}/pdfs/netbreakout_prime-imc-2025.pdf">PDF</a>
 </div>
