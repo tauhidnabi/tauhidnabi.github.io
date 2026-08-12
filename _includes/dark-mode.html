@@ -1,0 +1,75 @@
+<style>
+  body.dark-mode {
+    background-color: #1a1a2e !important;
+    color: #e0e0e0 !important;
+  }
+  body.dark-mode .masthead {
+    background-color: #16213e !important;
+    border-color: #333 !important;
+  }
+  body.dark-mode .masthead a,
+  body.dark-mode .greedy-nav a {
+    color: #e0e0e0 !important;
+  }
+  body.dark-mode #main {
+    background: rgba(30, 30, 50, 0.95) !important;
+  }
+  body.dark-mode .page__content p,
+  body.dark-mode .page__content li,
+  body.dark-mode .page__content h1,
+  body.dark-mode .page__content h2,
+  body.dark-mode .page__content h3,
+  body.dark-mode .archive__item-title,
+  body.dark-mode .pub-title,
+  body.dark-mode .pub-meta,
+  body.dark-mode .blog-title,
+  body.dark-mode .blog-excerpt {
+    color: #e0e0e0 !important;
+  }
+  body.dark-mode .author__name,
+  body.dark-mode .author__bio,
+  body.dark-mode .author__urls a {
+    color: #ccc !important;
+  }
+  body.dark-mode .page__footer {
+    background-color: #16213e !important;
+    color: #aaa !important;
+  }
+  body.dark-mode a {
+    color: #7eb8f7 !important;
+  }
+  body.dark-mode .pub-links a {
+    border-color: #555 !important;
+    color: #ccc !important;
+  }
+  body.dark-mode .pub-links a:hover {
+    background: #2a2a4a !important;
+  }
+  body.dark-mode .blog-entry {
+    border-color: #333 !important;
+  }
+  body.dark-mode #particles-js {
+    background: #1a1a2e !important;
+  }
+</style>
+
+<script>
+  (function() {
+    const toggle = document.getElementById('dark-mode-toggle');
+    const body = document.body;
+
+    // Apply saved preference immediately
+    if (localStorage.getItem('darkMode') === 'true') {
+      body.classList.add('dark-mode');
+      if (toggle) toggle.textContent = '☀️';
+    }
+
+    if (toggle) {
+      toggle.addEventListener('click', function() {
+        const isDark = body.classList.toggle('dark-mode');
+        localStorage.setItem('darkMode', isDark);
+        toggle.textContent = isDark ? '☀️' : '🌙';
+      });
+    }
+  })();
+</script>
