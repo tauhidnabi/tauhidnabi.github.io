@@ -11,6 +11,12 @@
   body.dark-mode .greedy-nav a {
     color: #e0e0e0 !important;
   }
+  body.dark-mode .greedy-nav {
+    background: #16213e !important;
+  }
+  body.dark-mode .greedy-nav .visible-links a:before {
+    background: #7eb8f7 !important;
+  }
   body.dark-mode #main {
     background: rgba(30, 30, 50, 0.95) !important;
   }
@@ -50,27 +56,50 @@
   body.dark-mode #particles-js {
     background: #1a1a2e !important;
   }
+  body.dark-mode .pub-venue {
+    opacity: 0.9;
+  }
+  body.dark-mode h1,
+  body.dark-mode h2,
+  body.dark-mode h3,
+  body.dark-mode h4 {
+    color: #e0e0e0 !important;
+  }
+  body.dark-mode .blog-card-title,
+  body.dark-mode .blog-card-meta,
+  body.dark-mode .blog-card-excerpt {
+    color: #e0e0e0 !important;
+  }
+  body.dark-mode .blog-card {
+    border-color: #333 !important;
+    background: #1e1e3a !important;
+  }
+  body.dark-mode .author__urls-wrapper .btn {
+    background: #2a2a4a !important;
+    color: #ccc !important;
+  }
 </style>
 
 <script>
+function toggleDark() {
+  var body = document.body;
+  var toggle = document.getElementById('dark-mode-toggle');
+  if (body.classList.contains('dark-mode')) {
+    body.classList.remove('dark-mode');
+    localStorage.setItem('darkMode', 'false');
+    toggle.textContent = '🌙';
+  } else {
+    body.classList.add('dark-mode');
+    localStorage.setItem('darkMode', 'true');
+    toggle.textContent = '☀️';
+  }
+}
+
+if (localStorage.getItem('darkMode') === 'true') {
+  document.body.classList.add('dark-mode');
   document.addEventListener('DOMContentLoaded', function() {
-    const toggle = document.getElementById('dark-mode-toggle');
-    const body = document.body;
-
-    // Apply saved preference
-    if (localStorage.getItem('darkMode') === 'true') {
-      body.classList.add('dark-mode');
-      if (toggle) toggle.textContent = '☀️';
-    }
-
-    if (toggle) {
-      toggle.addEventListener('click', function() {
-        const isDark = body.classList.toggle('dark-mode');
-        localStorage.setItem('darkMode', isDark);
-        toggle.textContent = isDark ? '☀️' : '🌙';
-      });
-    } else {
-      console.warn('Dark mode toggle button not found');
-    }
+    var t = document.getElementById('dark-mode-toggle');
+    if (t) t.textContent = '☀️';
   });
+}
 </script>
