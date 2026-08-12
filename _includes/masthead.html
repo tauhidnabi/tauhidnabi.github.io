@@ -1,7 +1,7 @@
 {% include base_path %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu" style="position: relative;">
+    <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
@@ -14,26 +14,36 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item">
+            <span id="dark-mode-toggle" onclick="toggleDark()" style="cursor:pointer; font-size:1.1em;">🌙</span>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
-      <button id="dark-mode-toggle" aria-label="Toggle dark mode" style="
-        background: none;
-        border: none;
-        cursor: pointer;
-        font-size: 1.1em;
-        padding: 0 0.5em;
-        line-height: 1;
-        color: #494e52;
-        display: inline-flex;
-        align-items: center;
-        height: 100%;
-        position: absolute;
-        right: 10px;
-        top: 0;
-        bottom: 0;
-        z-index: 999;
-      ">🌙</button>
     </div>
   </div>
 </div>
+
+<script>
+function toggleDark() {
+  var body = document.body;
+  var toggle = document.getElementById('dark-mode-toggle');
+  if (body.classList.contains('dark-mode')) {
+    body.classList.remove('dark-mode');
+    localStorage.setItem('darkMode', 'false');
+    toggle.textContent = '🌙';
+  } else {
+    body.classList.add('dark-mode');
+    localStorage.setItem('darkMode', 'true');
+    toggle.textContent = '☀️';
+  }
+}
+
+if (localStorage.getItem('darkMode') === 'true') {
+  document.body.classList.add('dark-mode');
+  document.addEventListener('DOMContentLoaded', function() {
+    var t = document.getElementById('dark-mode-toggle');
+    if (t) t.textContent = '☀️';
+  });
+}
+</script>
