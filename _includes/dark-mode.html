@@ -19,7 +19,6 @@
   body.dark-mode .page__content h1,
   body.dark-mode .page__content h2,
   body.dark-mode .page__content h3,
-  body.dark-mode .archive__item-title,
   body.dark-mode .pub-title,
   body.dark-mode .pub-meta,
   body.dark-mode .blog-title,
@@ -54,11 +53,11 @@
 </style>
 
 <script>
-  (function() {
+  document.addEventListener('DOMContentLoaded', function() {
     const toggle = document.getElementById('dark-mode-toggle');
     const body = document.body;
 
-    // Apply saved preference immediately
+    // Apply saved preference
     if (localStorage.getItem('darkMode') === 'true') {
       body.classList.add('dark-mode');
       if (toggle) toggle.textContent = '☀️';
@@ -70,6 +69,8 @@
         localStorage.setItem('darkMode', isDark);
         toggle.textContent = isDark ? '☀️' : '🌙';
       });
+    } else {
+      console.warn('Dark mode toggle button not found');
     }
-  })();
+  });
 </script>
