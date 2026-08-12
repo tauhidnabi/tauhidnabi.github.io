@@ -78,6 +78,29 @@
     background: #2a2a4a !important;
     color: #ccc !important;
   }
+  body.dark-mode .author__urls-wrapper {
+    background: #1e1e3a !important;
+  }
+  body.dark-mode .author__urls li a,
+  body.dark-mode .author__urls li {
+    color: #ccc !important;
+  }
+  body.dark-mode .author__urls li a:hover {
+    color: #7eb8f7 !important;
+  }
+  body.dark-mode .fa,
+  body.dark-mode .fab,
+  body.dark-mode .fas,
+  body.dark-mode .far,
+  body.dark-mode .ai {
+    color: #ccc !important;
+  }
+  body.dark-mode .author__avatar img {
+    border-color: #444 !important;
+  }
+  body.dark-mode .sidebar {
+    background: transparent !important;
+  }
 </style>
 
 <script>
@@ -94,7 +117,6 @@ function toggleDark() {
     toggle.textContent = '☀️';
   }
 }
-
 if (localStorage.getItem('darkMode') === 'true') {
   document.body.classList.add('dark-mode');
   document.addEventListener('DOMContentLoaded', function() {
