@@ -42,8 +42,8 @@ author_profile: true
   align-items: flex-start;
 }
 .blog-body img {
-  width: 260px;
-  min-width: 260px;
+  width: 300px;
+  min-width: 300px;
   border-radius: 4px;
   border: 1px solid #e5e7eb;
 }
@@ -59,7 +59,6 @@ author_profile: true
 <div class="blog-entry">
   <div class="blog-venue">🌍 Internet Society Pulse · August 11, 2026</div>
   <div class="blog-title"><a href="https://pulse.internetsociety.org/en/blog/2026/08/why-ip-geolocation-cant-be-trusted-for-mobile-networks-and-the-global-south/" target="_blank">Why IP Geolocation Can't Be Trusted for Mobile Networks and the Global South</a></div>
-  <div class="blog-author">Syed Tauhidun Nabi</div>
   <div class="blog-body">
     <img src="{{ site.baseurl }}/images/blog-geolocation-fig2.png" alt="Geolocation failure rates by region">
     <div class="blog-excerpt">Mobile network geolocation errors are more than 10× worse than fixed broadband, with Africa and Asia seeing failure rates of 66–72% and 53–61% respectively, compared to under 20% in Europe. The problem is structural and provider-independent: geolocation prefixes covering mobile networks span vast geographic areas, and coarser address blocks are two to three times more prevalent in the Global South than in the Global North.</div>
