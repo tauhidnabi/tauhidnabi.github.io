@@ -38,7 +38,6 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 </style>
 
 ## 2026
-
 <div class="pub-entry">
 <span class="pub-venue venue-sigcomm">ACM SIGCOMM</span>
 <span class="pub-title">POSTER: Measuring the Unmeasured: Mobile Broadband Inequality in the Global South</span><br>
@@ -46,6 +45,7 @@ Please also check <u><a href="https://scholar.google.com/citations?user=kPfhelMA
 <span class="pub-meta"><em>ACM SIGCOMM Posters and Demos '26</em>, Denver, CO, USA, Aug 17–21, 2026</span><br>
 <div class="pub-links">
 <a href="{{ site.baseurl }}/pdfs/poster_signal-sense_sigcomm-2026.pdf">PDF</a>
+<a href="{{ site.baseurl }}/pdfs/signalsense_poster_nabi_sigcomm-2026.pdf">Poster</a>
 <a href="https://doi.org/10.1145/3789240.3830293">ACM DL</a>
 </div>
 </div>
