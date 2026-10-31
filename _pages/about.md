@@ -21,7 +21,7 @@ Through my work, I aim to develop measurement methods and data-driven tools that
 <span style="font-size:14px;color: red;"><b> If you're interested in collaborating, feel free to email me at</b></span> [tauhid.eecs@gmail.com](mailto:tauhid.eecs@gmail.com).
 
 - **October 2026:** ✍️ A **[Cisco ThousandEyes Engineering blog post](https://medium.com/thousandeyes-engineering/extending-end-point-event-detection-to-cellular-networks-what-we-learned-2916dd6e66de)** based on my summer internship work, *Extending End Point Event Detection to Cellular Networks: What We Learned*, has been published.
-- **August 2026:** 🎤 Attended **[ACM SIGCOMM 2026](https://conferences.sigcomm.org/sigcomm/2026/)** in Denver, CO, and presented our poster**.
+- **August 2026:** 🎤 Attended **[ACM SIGCOMM 2026](https://conferences.sigcomm.org/sigcomm/2026/)** in Denver, CO, and presented our poster.
 - **July 2026:** ✈️ Received an **NSF Travel Grant** to attend and present at **[ACM SIGCOMM 2026](https://conferences.sigcomm.org/sigcomm/2026/)**. Our poster **[Measuring the Unmeasured: Mobile Broadband Inequality in the Global South](https://dl.acm.org/doi/10.1145/3789240.3830293)** has been accepted at ACM SIGCOMM 2026 Posters and Demos.
 - **June 2026:** 🏆 I have been awarded the **Pratt Fellowship** from the Department of Computer Science at Virginia Tech for the academic year 2026–2027.
 - **May 2026:** 🚀 I joined **[Cisco ThousandEyes](https://www.cisco.com/site/us/en/products/networking/software/internet-cloud-intelligence/index.html)** as a Summer PhD Intern on the Internet Measurement Research team.
