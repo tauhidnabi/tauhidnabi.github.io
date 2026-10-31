@@ -57,6 +57,15 @@ author_profile: true
 # Blog Posts
 
 <div class="blog-entry">
+  <div class="blog-venue">🛰️ Cisco ThousandEyes Engineering · October 20, 2026</div>
+  <div class="blog-title"><a href="https://medium.com/thousandeyes-engineering/extending-end-point-event-detection-to-cellular-networks-what-we-learned-2916dd6e66de" target="_blank">Extending End Point Event Detection to Cellular Networks: What We Learned</a></div>
+  <div class="blog-body">
+    <img src="{{ site.baseurl }}/images/blog-thousandeyes-cellular.png" alt="Cellular event detection at Cisco ThousandEyes">
+    <div class="blog-excerpt">During my internship on the Internet Measurement Research team, I extended ThousandEyes' Event Detection pipeline to Android agents measuring over 4G/5G. Cellular networks hide the radio access network inside GTP tunnels and mask the real gateway infrastructure behind session-specific IP addresses, so the system could tell that cellular was involved but not where inside the network a failure occurred. The post covers what we built, what we found, and the RAN visibility and gateway mapping needed for end-to-end cellular event detection.</div>
+  </div>
+</div>
+
+<div class="blog-entry">
   <div class="blog-venue">🌍 Internet Society Pulse · August 11, 2026</div>
   <div class="blog-title"><a href="https://pulse.internetsociety.org/en/blog/2026/08/why-ip-geolocation-cant-be-trusted-for-mobile-networks-and-the-global-south/" target="_blank">Why IP Geolocation Can't Be Trusted for Mobile Networks and the Global South</a></div>
   <div class="blog-body">
