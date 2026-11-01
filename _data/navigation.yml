@@ -23,6 +23,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "NABI Lab"
+    url: /nabi-lab/
     
   #- title: "Guide"
   #  url: /markdown/
