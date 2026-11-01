@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # NABI Lab
-**Network Analytics and Broadband Intelligence***
+**Network Analytics and Broadband Intelligence**
 
 *Internet measurement and AI for equitable, resilient connectivity.*
 
