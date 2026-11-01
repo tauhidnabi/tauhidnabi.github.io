@@ -18,8 +18,8 @@ NABI Lab is the research group I hope to build in the future. Its focus is large
 - **Internet resilience:** Uncovering the hidden infrastructure behind mobile, fixed, and satellite access, and attributing degradations to it.
 - **AI for network understanding:** Using language models to turn user diaries, complaints, and trouble reports into structured network insight, and to help operators diagnose problems and prioritize upgrades, with outputs validated by local communities.
 
-## Mentoring Notes
-Lessons from my PhD journey on research, writing, attending conferences and workshops, and working with advisors and collaborators. *Coming soon.*
+## Lessons from My Mentors
+What I learned during my PhD journey from my advisors, collaborators, and industry leaders about doing research, writing, and navigating conferences and workshops. *Coming soon.*
 
 ## Resources for Collaborators
 Reading lists, datasets, and starter materials for students and collaborators I work with. *Access on request: [email me](mailto:tauhid.eecs@gmail.com).*
