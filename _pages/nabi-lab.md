@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 # NABI Lab
-**Internet measurement and AI for equitable, resilient connectivity.**
+**Network Analytics and Broadband Intelligence***
 
-*Measuring the Internet to make connectivity visible, accurate, and equitable.*
+*Internet measurement and AI for equitable, resilient connectivity.*
 
 NABI Lab is the research group I hope to build in the future. Its focus is large-scale Internet measurement, mobile and broadband access networks, and digital equity, especially in the Global South.
 
 ## Research Directions
 - **Independent assessment of Internet claims:** Testing what ISPs, IP geolocation providers, and CDNs claim about coverage, performance, and location through independent measurement.
 - **Community QoE for marginalized groups:** Measuring connectivity experience at the community level, combining network measurement with participatory methods such as diary studies.
-- **Internet infrastructure and resilience:** Uncovering the hidden structure behind mobile, fixed, and satellite access, and attributing degradations to it.
+- **Internet resilience:** Uncovering the hidden infrastructure behind mobile, fixed, and satellite access, and attributing degradations to it.
 - **AI for network understanding:** Using language models to turn user diaries, complaints, and trouble reports into structured network insight, and to help operators diagnose problems and prioritize upgrades, with outputs validated by local communities.
 
 ## Mentoring Notes
