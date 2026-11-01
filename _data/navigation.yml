@@ -9,8 +9,8 @@ main:
   #- title: "Information for Students"
   #  url: /infostudents/
     
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
 
   #- title: "CS5604F21"
   #  url: /CS5604F21/
