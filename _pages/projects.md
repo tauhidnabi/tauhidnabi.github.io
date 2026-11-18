@@ -41,5 +41,6 @@ author_profile: true
   <div>
     <div class="project-title"><a href="https://tauhidnabi.github.io/projects/signalsense/" target="_blank">Signal Sense: Mobile Broadband Inequality in the Global South</a></div>
     <div class="project-desc">Signal Sense investigates mobile broadband inequality in marginalized urban communities across the Global South, combining measurements from our custom-built mobile app with interviews and user diaries to understand real-world Internet experiences and inform equitable, community-centered network planning.</div>
+    <div class="project-collab"><em>Collaborators: Shaddi Hasan (PI, Virginia Tech), Syed Ishtiaque Ahmed (University of Toronto), S. M. Taiabul Haque (BRAC University), Jocelyn Bliton (Virginia Tech), Rahul Roy (Independent)</em></div>
   </div>
 </div>
