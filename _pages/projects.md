@@ -34,6 +34,12 @@ author_profile: true
   font-size: 0.9em;
   line-height: 1.6;
 }
+.project-collab {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 0.8em;
+  line-height: 1.5;
+}
 </style>
 
 <div class="project-entry">
