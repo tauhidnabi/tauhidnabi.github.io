@@ -1,0 +1,99 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Signal Sense</title>
+<style>
+:root{--bg:#f4f5f7;--card:#fff;--ink:#1d2330;--mute:#5b6474;--line:#e4e7ec;--acc:#4b2fd6;--chip:#eef0ff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.55}
+.wrap{max-width:1080px;margin:0 auto;padding:28px 20px 60px}
+h1{font-size:28px;margin:0}.sub{color:var(--mute);font-size:13px;margin:4px 0 18px}
+nav{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:22px}
+nav a{padding:7px 14px;border-radius:6px;color:var(--ink);text-decoration:none;font-size:15px;border:2px solid transparent}
+nav a:hover{background:#eceef3}nav a.on{border-color:var(--acc);font-weight:600}
+section{display:none}section.on{display:block}
+h2{font-size:20px;margin:28px 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line)}h2:first-child{margin-top:0}
+p,li{font-size:15px}ul{padding-left:22px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 20px;margin:12px 0;display:block;color:inherit;text-decoration:none}
+a.card:hover{border-color:var(--acc);box-shadow:0 2px 8px rgba(75,47,214,.08)}
+.card h3{margin:0 0 4px;font-size:17px;color:var(--acc)}.meta{font-size:12.5px;color:var(--mute);margin-bottom:8px}
+.chip{display:inline-block;background:var(--chip);color:#3a2aa8;border-radius:9px;padding:1px 8px;font-size:12px;font-weight:600;margin-right:6px}
+table{border-collapse:collapse;width:100%;font-size:14.5px;background:var(--card)}td,th{border:1px solid var(--line);padding:8px 11px;text-align:left;vertical-align:top}th{background:#f5f6f8}
+.done{color:#1f7a5c;font-weight:600}.now{color:#b7791f;font-weight:600}.next{color:var(--mute)}
+.empty{color:var(--mute);font-style:italic}
+footer{margin-top:40px;font-size:12px;color:var(--mute)}
+</style></head><body><div class="wrap">
+<h1>Signal Sense</h1>
+<div class="sub">Measuring the unmeasured: mobile broadband experience in Korail, Dhaka · Tauhid Nabi, Virginia Tech · private project site for collaborators</div>
+<nav>
+  <a href="#about" data-t="about">About</a>
+  <a href="#analyses" data-t="analyses">Analyses</a>
+  <a href="#minutes" data-t="minutes">Meeting Minutes</a>
+  <a href="#timeline" data-t="timeline">Timeline</a>
+</nav>
+
+<section id="about">
+<h2>What this is</h2>
+<p><b>Signal Sense</b> studies how standard mobile broadband measurement, operator KPIs and crowdsourced platforms such as Ookla, structurally renders marginalized urban communities invisible. The field site is <b>Korail</b>, an informal settlement of about 200,000 people inside Gulshan Thana, one of Dhaka's wealthiest administrative units: the Thana average reads healthy while Korail's experience disappears into it.</p>
+<h2>Three measurement failures</h2>
+<ul>
+<li><b>Administrative aggregation:</b> the spatial unit is too coarse, so Korail dissolves into Gulshan.</li>
+<li><b>Crowdsourced undersampling:</b> poorer residents are not sampled, so Korail is absent from the data.</li>
+<li><b>Reference-point mismatch:</b> standard tools measure toward their own reference servers, not the content paths residents actually depend on.</li>
+</ul>
+<h2>QoE as a path, not a number</h2>
+<ul>
+<li><b>Plane 1 · Radio &amp; Access:</b> can the phone get onto the network (RSRP, RSRQ, SINR, RAT, cell).</li>
+<li><b>Plane 2 · Core &amp; Interconnection:</b> does the operator's own network add delay (DNS, TCP and TLS setup).</li>
+<li><b>Plane 3 · Inter-domain &amp; Content Delivery:</b> where content is served from: on-net cache, in-country or international transit.</li>
+<li><b>Human overlay:</b> what people were trying to do and how they coped, captured through a diary study and interviews.</li>
+</ul>
+<p>The <b>Warbler</b> Android app measures the three planes. Each Plane 2/3 burst probes near and far targets back-to-back on the same cell, so the shared floor (Planes 1+2) and the transit penalty (Plane 3) can be separated by comparison.</p>
+<h2>Components</h2>
+<ul>
+<li><b>Drive tests</b> in Korail and adjacent Gulshan/Banani, on different days and times of day.</li>
+<li><b>Participant study:</b> about 15 Korail residents' phones running Warbler, paired with a diary study.</li>
+<li><b>Network planner interviews</b> with mobile operators in Bangladesh.</li>
+</ul>
+<p><b>People:</b> Tauhid Nabi (lead), Prof. Shaddi Hasan (PI, Virginia Tech), Jocelyn Bliton (Warbler app), Rahul Roy (field coordinator, Dhaka).</p>
+</section>
+
+<section id="analyses">
+<h2>Analyses</h2>
+<!-- Add new analyses at the top: copy a card and change the link, title and text. -->
+<a class="card" href="warbler-dt-analysis-v1.1/">
+  <h3>Warbler drive-test analysis · app v1.1</h3>
+  <div class="meta"><span class="chip">Instrument validation</span>Export 2026-11-17 · 8 sessions · Blacksburg, VA</div>
+  Checks that the Warbler app captures the data planned for QoE drive tests and flags missing fields and anomalies: sessions, data cost, completeness, cadence, radio along the routes, NDT7, TTFB, WebRTC and G.1051, and a prioritised list of app updates.
+</a>
+</section>
+
+<section id="minutes">
+<h2>Meeting Minutes</h2>
+<!-- Add each meeting as a card, newest first:
+<div class="card"><h3>YYYY-MM-DD · Meeting title</h3><div class="meta">Attendees: …</div>
+<ul><li>Decision …</li><li>Action: who, what, by when</li></ul></div> -->
+<p class="empty">No meeting minutes added yet.</p>
+</section>
+
+<section id="timeline">
+<h2>Timeline</h2>
+<table>
+<tr><th>When</th><th>Milestone</th><th>Status</th></tr>
+<tr><td>Oct – Nov 2026</td><td>Warbler instrument validation in Blacksburg (drive, walk and benchmark tests); remote phone testbed and app self-update</td><td class="now">In progress</td></tr>
+<tr><td>First week of Dec 2026</td><td>Participant recruitment begins in Korail: rolling, 3 phases × 5 participants</td><td class="next">Planned</td></tr>
+<tr><td>Dec 2026</td><td>Drive tests in Korail and adjacent Gulshan/Banani, on different days and times of day</td><td class="next">Planned</td></tr>
+<tr><td>End of Dec 2026</td><td>All field work complete, including transcription and translation</td><td class="next">Planned</td></tr>
+<tr><td>Late Dec 2026 – mid Jan 2027</td><td>Network planner interviews</td><td class="next">Planned</td></tr>
+<tr><td>End of Jan 2027</td><td>SIGCOMM submission (IMC around April as fallback)</td><td class="next">Planned</td></tr>
+</table>
+</section>
+
+<footer>Confidential: shared with collaborators for review. Please don't forward the link or password.</footer>
+</div>
+<script>
+(function(){
+  const tabs=["about","analyses","minutes","timeline"];
+  function go(){ const t=(location.hash||"#about").slice(1); const k=tabs.includes(t)?t:"about";
+    document.querySelectorAll("section").forEach(s=>s.classList.toggle("on",s.id===k));
+    document.querySelectorAll("nav a").forEach(a=>a.classList.toggle("on",a.dataset.t===k)); }
+  window.addEventListener("hashchange",go); go();
+})();
+</script></body></html>
