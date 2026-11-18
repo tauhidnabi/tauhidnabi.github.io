@@ -35,9 +35,9 @@ author_profile: true
   line-height: 1.6;
 }
 .project-collab {
-  font-size: 0.8em;
-  color: #666;
-  margin-top: 0.8em;
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 0.85em;
   line-height: 1.5;
 }
 </style>
