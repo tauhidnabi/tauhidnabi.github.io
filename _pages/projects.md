@@ -39,7 +39,7 @@ author_profile: true
 <div class="project-entry">
   <img src="{{ site.baseurl }}/images/project-signal-sense.png" alt="Signal Sense">
   <div>
-    <div class="project-title">Signal Sense: <a href="https://tauhidnabi.github.io/pdfs/poster_signal-sense_sigcomm-2026.pdf" target="_blank">Mobile Broadband Inequality in the Global South</a></div>
+    <div class="project-title"><a href="https://tauhidnabi.github.io/projects/signalsense/" target="_blank">Signal Sense: Mobile Broadband Inequality in the Global South</a></div>
     <div class="project-desc">Signal Sense investigates mobile broadband inequality in marginalized urban communities across the Global South, combining measurements from our custom-built mobile app with interviews and user diaries to understand real-world Internet experiences and inform equitable, community-centered network planning.</div>
   </div>
 </div>
