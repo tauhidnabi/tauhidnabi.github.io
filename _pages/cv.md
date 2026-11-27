@@ -5,8 +5,12 @@ permalink: /cv/
 author_profile: true
 ---
 
-# Curriculum Vitae
+# Curriculum Vitae & Resume
 
-My full CV is available [here]({{ site.baseurl }}/pdfs/cv.pdf){:target="_blank"}.
+- **[Industry Resume]({{ site.baseurl }}/pdfs/resume_industry.pdf){:target="_blank"}**  
+  For data science, applied research, and network infrastructure positions.
 
-<small>Last updated: August 2026</small>
+- **[Academic CV]({{ site.baseurl }}/pdfs/cv_academia.pdf){:target="_blank"}**  
+  For academic and postdoctoral research opportunities.
+
+<small>Last updated: November 2026</small>
