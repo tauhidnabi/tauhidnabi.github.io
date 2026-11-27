@@ -7,10 +7,10 @@ author_profile: true
 
 # Curriculum Vitae & Resume
 
-- **[Industry Resume]({{ site.baseurl }}/pdfs/resume_industry.pdf){:target="_blank"}**  
+- <strong style="font-size: 1.25em;"><a href="{{ site.baseurl }}/pdfs/tauhid_nabi_industry_resume.pdf" target="_blank">Industry Resume</a></strong>  
   For data science, applied research, and network infrastructure positions.
 
-- **[Academic CV]({{ site.baseurl }}/pdfs/cv_academia.pdf){:target="_blank"}**  
+- <strong style="font-size: 1.25em;"><a href="{{ site.baseurl }}/pdfs/tauhid_nabi_academic_cv.pdf" target="_blank">Academic CV</a></strong>  
   For academic and postdoctoral research opportunities.
 
 <small>Last updated: November 2026</small>
